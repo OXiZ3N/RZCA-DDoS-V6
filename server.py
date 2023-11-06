@@ -53,11 +53,10 @@ else:
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 print("""
-KuzumaNet
+RED ZONE NETWORK
 
 DDoS Botnet
-
-Discord: zSodex#3828 :D""")
+""")
 
 time.sleep(1.3)
 os.system("clear")
@@ -72,7 +71,7 @@ print(Fore.RED+"""
                                                                                                                                      
 """)
 
-print(Fore.BLUE + "DDoS Botnet By zSodex :D ")
+print(Fore.BLUE + "DDoS Botnet ")
 print()
 listclientes = []
 
